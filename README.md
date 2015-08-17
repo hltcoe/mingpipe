@@ -1,5 +1,5 @@
 # mingpipe
-#### Author: Nanyun Peng <npeng1@jhu.edu> and  Mark Dredze <mdredze@cs.jhu.edu>
+#### Authors: Nanyun Peng <npeng1@jhu.edu> and Mark Dredze <mdredze@cs.jhu.edu>
 
 mingpipe is a name matcher for Chinese names. It takes two names and predicts whether or not they can refer to the same entity (person, organization or location).
 
